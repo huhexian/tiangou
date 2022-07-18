@@ -8,3 +8,5 @@
 版权什么的，你们随意就好，原程序上也没标明版权，反正不是我的版权...
 
 运行方式：[下载](https://github.com/huhexian/tiangou/archive/refs/heads/master.zip)代码后解压，用浏览器打开 `index.html`。
+
+演示网站：[http://t.huhexian.cn/](http://t.huhexian.cn/)
